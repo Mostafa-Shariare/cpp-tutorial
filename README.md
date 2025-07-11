@@ -15,16 +15,6 @@ This repository is organized into bite-sized lessons. Each lesson includes:
 
 ---
 
-## 🧭 Getting Started
-
-1. Clone or fork this repository
-2. Start from `01-introduction/README.md`
-3. Follow the lessons in order
-
-```bash
-git clone https://github.com/your-username/cpp-tutorial.git
-cd cpp-tutorial/01-introduction
-
----
-
 ⬅️ [Start: Introduction](../01-introduction/README.md) 
+
+
